@@ -91,7 +91,6 @@
   "ib-tws-dir": "C:\\Jts",
   "ib-trading-mode": "paper",
   "ib-enable-delayed-streaming-data": false,
-  "ib-version": "974",
   "ib-weekly-restart-utc-time": "22:00:00",
 
   // tradier configuration
@@ -161,6 +160,8 @@
   "eze-locale": "",
   "eze-password": "",
   "eze-user-name": "",
+  "eze-trading-route": "",
+  "eze-trading-account": "",
 
   // kraken configuration
   "kraken-api-secret": "",
